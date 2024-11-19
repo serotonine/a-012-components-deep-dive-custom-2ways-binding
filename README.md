@@ -10,4 +10,5 @@ Build [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzm
 
 ### ANGULAR 17 
 ##### Summary
-- - [Custom 2ways Binding](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/44115830)
+- [Custom 2ways Binding](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/44115830)
+- [Another way to set Custom 2ways Binding](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/44115846)
